@@ -3,4 +3,4 @@
 Small fun application using Javascript for random answers. 	&#129312;
 
 
-![Alt Text](Trump_Bot/Preview.png).
+![Alt Text](Trump%20Bot/Preview.png).
